@@ -15,16 +15,16 @@
 <h1 align="center">My favorite projects 💻</h1>
 <br />
 <p align="center">
-  <img width="400" src="assets/flappy_bird.jpg" />
-  <img width="400" src="assets/quizzler.jpg" />
+  <img width="400" height="400" src="assets/flappy_bird.jpg" />
+  <img width="400" height="400" src="assets/quizzler.jpg" />
  <a href="https://github.com/Abdelrahmanhassan1/Flappy-Bird-with-Python">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Flappy-Bird-with-Python&theme=tokyonight" />
 </a>
   <a href="https://github.com/Abdelrahmanhassan1/Quizzler-App-FLUTTER">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Quizzler-App-FLUTTER&theme=tokyonight" />
 </a>
-  <img width="400" src="assets/memory_game.png" />
-  <img width="400" src="assets/data_analysis.jpg" />
+  <img width="400" height="400" src="assets/memory_game.png" />
+  <img width="400" height="400" src="assets/data_analysis.jpg" />
   <a href="https://github.com/Abdelrahmanhassan1/Memory-Game-Javascript/tree/master">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Memory-Game-Javascript&theme=tokyonight" />
 </a>
