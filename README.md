@@ -78,6 +78,5 @@ I also Learned Web Development and got a course to become a full-stack web devel
 
 <p align="center"> 
   Profile Views <br>
-  <img src="https://profile-counter.glitch.me/Abdelrahmanhassan1
-/count.svg" />
+  <img src="https://profile-counter.glitch.me/Abdelrahmanhassan1/count.svg" />
 </p>
