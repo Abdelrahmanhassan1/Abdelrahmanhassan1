@@ -10,48 +10,49 @@
 </p>
 <br />
 
-<p align="center">Biomedical Engineer, Python Developer and enthusiast in the field of ML and AI, Data Analyst, Web Developer</p><br/>
+<p align="center">Software Developer-Full Stack Web Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
 
 <h1 align="center">My favorite projects 💻</h1>
 <br />
 <p align="center">
   <img width="400" height="400" src="assets/flappy_bird.jpg" />
-  <img width="400" height="400" src="assets/quizzler.jpg" />
+  <img width="400" height="400" src="assets/chrome extension.jpg" />
+
  <a href="https://github.com/Abdelrahmanhassan1/Flappy-Bird-with-Python">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Flappy-Bird-with-Python&theme=tokyonight" />
 </a>
-  <a href="https://github.com/Abdelrahmanhassan1/Quizzler-App-FLUTTER">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Quizzler-App-FLUTTER&theme=tokyonight" />
+
+  <a href="https://github.com/Abdelrahmanhassan1/Inspirational-Quote-Chrome-Extension">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Inspirational-Quote-Chrome-Extension&theme=tokyonight" />
 </a>
-  <img width="400" height="400" src="assets/memory_game.png" />
-  <img width="400" height="400" src="assets/data_analysis.jpg" />
-  <a href="https://github.com/Abdelrahmanhassan1/Memory-Game-Javascript/tree/master">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Memory-Game-Javascript&theme=tokyonight" />
+
+  <img width="400" height="400" src="assets/simon game.png" />
+  <img width="400" height="400" src="assets/note keeper.png" />
+
+  <a href="https://github.com/Abdelrahmanhassan1/Simon-Game-Web-Based-Project">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Simon-Game-Web-Based-Project&theme=tokyonight" />
 </a>
-<a href="https://github.com/Abdelrahmanhassan1/TMDB-Movies-Data-Analysis">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=TMDB-Movies-Data-Analysis&theme=tokyonight" />
+
+<a href="https://github.com/Abdelrahmanhassan1/Note-Keeper-React-App">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Note-Keeper-React-App&theme=tokyonight" />
 </a>
 </p>
 
 <br />
-
 
 <h1 align="center">About me 😇</h1>
 <br />
 <p align="center">
-Biomedical Engineer from Cairo University Faculty Of Engineering. <br>
+Biomedical Engineer at Cairo University Faculty Of Engineering.<br>
 I started my career in programming since 2018.<br>
-I learned C++ and java and this was my first step to dive into programming. <br>
-Now I am a Python Developer and enthusiast in the field of Machine Learning and Artificial Intelligence. <br>
-So I started Learning Data analysis and yet I finished a Nano Degree from Udacity. <br>
+I learned C++ and java and this was my first step to dive into programming.<br>
+I learned python after that and managed to perform some easy and complex tasks. <br>
 I also Learned Web Development and got a course to become a full-stack web developer, and for my interest in Mobile applications, I learned to Flutter and build some apps.<br>
 </p>
 <br />
 <br />
-
-
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h1 align="center"> Languages and Tools</h1>
 </p>
 <br />
 <p align="center">
@@ -68,16 +69,15 @@ I also Learned Web Development and got a course to become a full-stack web devel
 </p>
 <br />
 
+<br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="480" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanhassan1&layout=compact&theme=radical" width="400"  />
 </p>
-<br />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abdelrahmanHa)
-
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanhassan1&layout=compact&theme=radical" width="400" />
+<p align="center"> 
+  Profile Views <br>
+  <img src="https://profile-counter.glitch.me/Abdelrahmanhassan1
+/count.svg" />
 </p>
