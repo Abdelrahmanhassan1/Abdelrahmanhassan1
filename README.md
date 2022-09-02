@@ -15,6 +15,16 @@
 <h1 align="center">My favorite projects 💻</h1>
 <br />
 <p align="center">
+  <img width="400" height="400" src="assets/3D-images.png" />
+  <img width="400" height="400" src="assets/note keeper.png" />
+
+<a href="https://github.com/Abdelrahmanhassan1/3D-Medical-Images-Workstation-With-vtk.js">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=3D-Medical-Images-Workstation-With-vtk.js&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Abdelrahmanhassan1/Note-Keeper-React-App">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Note-Keeper-React-App&theme=tokyonight" />
+</a>
   <img width="400" height="400" src="assets/flappy_bird.jpg" />
   <img width="400" height="400" src="assets/chrome extension.jpg" />
 
@@ -26,16 +36,6 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Inspirational-Quote-Chrome-Extension&theme=tokyonight" />
 </a>
 
-  <img width="400" height="400" src="assets/simon game.png" />
-  <img width="400" height="400" src="assets/note keeper.png" />
-
-  <a href="https://github.com/Abdelrahmanhassan1/Simon-Game-Web-Based-Project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Simon-Game-Web-Based-Project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Abdelrahmanhassan1/Note-Keeper-React-App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Note-Keeper-React-App&theme=tokyonight" />
-</a>
 </p>
 
 <br />
