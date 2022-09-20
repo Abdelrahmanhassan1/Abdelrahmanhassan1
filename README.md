@@ -10,7 +10,7 @@
 </p>
 
 <div align="center" >
-  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><img src="./icons/youtube-logo-png-2067.png" width="30" height="30" /></a>
+  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><img src="./icons/youtube-logo-png-2067.png" width="40" height="35" /></a>
   <p style="margin:15px; font-size:1.5rem">My Youtube Channel:</p>
   <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><p style="margin:15px; font-size:1.5rem">Magara</p></a>
 </div>
