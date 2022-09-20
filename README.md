@@ -8,9 +8,12 @@
 <a href="https://twitter.com/Abdelra31429503"><img src="icons/twitter.png" width="30" alt="Twitter" /></a>&nbsp;
 <a href="https://github.com/Abdelrahmanhassan1"><img src="icons/github.png" width="30" alt="Github" /></a>&nbsp;
 </p>
-<br />
 
-<p align="center"> My Youtube Channel: <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg">Youtube</a> </p>
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img src="./icons/youtube-logo-png-2067.png" width="30" height="30" />
+  <h2 style="margin:15px;">My Youtube Channel:</h2>
+  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><h2>Magara</h2></a>
+</div>
 
 <p align="center">Software Developer-Full Stack Web Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
 
