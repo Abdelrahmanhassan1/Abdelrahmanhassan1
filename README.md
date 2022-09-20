@@ -10,7 +10,7 @@
 </p>
 <br />
 
-My Youtube Channel: <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg">Youtube</a>
+<p align="center"> My Youtube Channel: <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg">Youtube</a> </p>
 
 <p align="center">Software Developer-Full Stack Web Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
 
