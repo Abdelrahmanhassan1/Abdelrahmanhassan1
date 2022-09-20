@@ -11,8 +11,8 @@
 
 <div style="display:flex; justify-content:center; align-items:center;">
   <img src="./icons/youtube-logo-png-2067.png" width="30" height="30" />
-  <h2 style="margin:15px;">My Youtube Channel:</h2>
-  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><h2>Magara</h2></a>
+  <p style="margin:15px;">My Youtube Channel:</p>
+  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><p>Magara</p></a>
 </div>
 
 <p align="center">Software Developer-Full Stack Web Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
