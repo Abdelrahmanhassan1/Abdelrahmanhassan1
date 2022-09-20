@@ -9,7 +9,7 @@
 <a href="https://github.com/Abdelrahmanhassan1"><img src="icons/github.png" width="30" alt="Github" /></a>&nbsp;
 </p>
 
-<div style="display:flex; justify-content:center; align-items:center;">
+<div align="center" >
   <img src="./icons/youtube-logo-png-2067.png" width="30" height="30" />
   <p style="margin:15px;">My Youtube Channel:</p>
   <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><p>Magara</p></a>
