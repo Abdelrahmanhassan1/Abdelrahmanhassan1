@@ -20,49 +20,11 @@
   <a href="https://abdelrahman-hassan-portfolio.herokuapp.com/" target="_blank"><p style="margin:15px; font-size:1.5rem">Portfolio</p></a>
 </div>
 
-<p align="center">Software Developer-Full Stack Web Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
+<p align="center">Software Developer-MERN Web Developer-Flutter Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
 
-<h1 align="center">My favorite projects 💻</h1>
-<br />
-<p align="center">
-  
-  <img width="400" height="400" src="assets/flappy_bird.jpg" />
-  <img width="400" height="400" src="assets/chrome extension.jpg" />
-
- <a href="https://github.com/Abdelrahmanhassan1/Flappy-Bird-with-Python">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Flappy-Bird-with-Python&theme=tokyonight" />
-</a>
-
-  <a href="https://github.com/Abdelrahmanhassan1/Inspirational-Quote-Chrome-Extension">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Inspirational-Quote-Chrome-Extension&theme=tokyonight" />
-</a>
-
-<img width="400" height="400" src="assets/3D-images.png" />
-  <img width="400" height="400" src="assets/note keeper.png" />
-
-<a href="https://github.com/Abdelrahmanhassan1/3D-Medical-Images-Workstation-With-vtk.js">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=3D-Medical-Images-Workstation-With-vtk.js&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Abdelrahmanhassan1/Note-Keeper-React-App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelrahmanhassan1&repo=Note-Keeper-React-App&theme=tokyonight" />
-</a>
-
-</p>
 
 <br />
 
-<h1 align="center">About me 😇</h1>
-<br />
-<p align="center">
-Biomedical Engineer at Cairo University Faculty Of Engineering.<br>
-I started my career in programming since 2018.<br>
-I learned C++ and java and this was my first step to dive into programming.<br>
-I learned python after that and managed to perform some easy and complex tasks. <br>
-I also Learned Web Development and got a course to become a full-stack web developer, and for my interest in Mobile applications, I learned to Flutter and build some apps.<br>
-</p>
-<br />
-<br />
 <p>
 <h1 align="center"> Languages and Tools</h1>
 </p>
