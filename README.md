@@ -25,26 +25,6 @@
 
 <br />
 
-<p>
-<h1 align="center"> Languages and Tools</h1>
-</p>
-<br />
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40">
-<img src="icons/javascript.png" width="40" alt="JAVASCRIPT" />
-<img src="icons/python.png" width="40" alt="PYTHON" />
-<img src="icons/c++.png" width="40" alt="C++" />
-<img src="icons/java.png" width="40" alt="JAVA" />
-<img src="icons/mysql.png" width="40" alt="MYSQL" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
-<img src="icons/git.png" width="40" alt="GIT" />
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
-<br />
-
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="480" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanhassan1&layout=compact&theme=radical" width="400"  />
