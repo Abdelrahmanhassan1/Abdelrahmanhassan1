@@ -25,8 +25,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="480" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanhassan1&layout=compact&theme=radical" width="400"  />
 </p>
-
-<p align="center"> 
-  Profile Views <br>
-  <img src="https://profile-counter.glitch.me/Abdelrahmanhassan1/count.svg" />
-</p>
