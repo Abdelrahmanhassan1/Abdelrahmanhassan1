@@ -18,10 +18,3 @@
 
 <p align="center">Software Developer-MERN Web Developer-Flutter Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
 
-
-<br />
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="480" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanhassan1&layout=compact&theme=radical" width="400"  />
-</p>
