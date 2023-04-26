@@ -11,13 +11,14 @@
 
 <div align="center" >
   <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><img src="./icons/youtube-logo-png-2067.png" width="40" height="35" /></a>
-  <p style="margin:15px; font-size:1.5rem">My Youtube Channel:</p>
-  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg" target="_blank"><p style="margin:15px; font-size:1.5rem">Magara</p></a>
 </div>
 
+<div align="center">
+  <a href="https://portfolio-nextjs-hk5zsqwtw-abdelrahmanhassan1.vercel.app/" target="_blank"><p style="margin:15px; font-size:1.5rem">Portfolio</a>
+
+</div>
 
 <p align="center">Software Developer-MERN Web Developer-Flutter Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
-
 
 <br />
 
