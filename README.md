@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://3d-portfolio-ruby-eight.vercel.app/"  target="_blank"><img src="./icons/world-wide-web.png" width="40" height="35" /> Portfolio</a>
+  <a href="https://3d-portfolio-ruby-eight.vercel.app/"  target="_blank"> Portfolio</a>
 </div>
 
 <br />
