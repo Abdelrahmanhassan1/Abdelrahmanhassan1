@@ -14,8 +14,11 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-nextjs-kappa-woad.vercel.app/"  target="_blank">Portfolio</a>
+  <a href="https://3d-portfolio-ruby-eight.vercel.app/"  target="_blank"><img src="./icons/world-wide-web.png" width="40" height="35" /> Portfolio</a>
 </div>
+
+<br />
+<br />
 
 <p>
 A passionate Full-Stack Developer with a strong foundation in modern technologies, including React, Next.js, TypeScript, Node.js, MongoDB, Python, and Odoo. I specialize in building dynamic, scalable, and user-friendly web applications, with hands-on experience in developing platforms like PixiCamel, a 3D asset store, and MRKBA, an online car reservation platform.<br />
