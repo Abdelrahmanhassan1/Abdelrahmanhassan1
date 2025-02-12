@@ -17,8 +17,17 @@
   <a href="https://portfolio-nextjs-kappa-woad.vercel.app/"  target="_blank">Portfolio</a>
 </div>
 
-<p align="center">Software Developer-MERN Web Developer-Flutter Developer-Interested in Machine Learning and AI, and how to apply this in the medical field to solve severe medical problems.</p><br/>
+<p align="center">
+A passionate Full-Stack Developer with a strong foundation in modern technologies, including React, Next.js, TypeScript, Node.js, MongoDB, Python, and Odoo. I specialize in building dynamic, scalable, and user-friendly web applications, with hands-on experience in developing platforms like PixiCamel, a 3D asset store, and MRKBA, an online car reservation platform.<br />
 
+My journey in tech is diverse and enriched by my roles as an Application Developer at Siemens, where I contributed to AI-driven apps for document extraction and chatbots, and as an RPA Developer, automating workflows with UiPath and enhancing data integration with Power Apps. I’ve also explored the intersection of healthcare and technology through projects like the 3D Medical Images Workstation and my VR-based graduation project, Upper Extremity Rehabilitation Using Virtual Reality Mirror Therapy, mentored by Siemens Healthineers.<br />
+
+Beyond web development, I’ve ventured into VR development with Unity and Blender, creating immersive experiences for athlete training and stroke rehabilitation. My background as an IT Asset Administrator has also equipped me with a solid understanding of infrastructure, cloud services, and sustainability initiatives.<br />
+
+I’m passionate about leveraging technology to solve real-world problems, whether it’s through web apps, automation, or healthcare innovations. Feel free to explore my projects and get in touch
+</p>
+
+<br/>
 <br />
 
 <p align="center">
