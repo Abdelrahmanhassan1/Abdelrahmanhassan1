@@ -1,38 +1,46 @@
 <p>
   <h1 align="center"><b>Hi, I am Abdelrahman Hassan! <img src="icons/businessman.png" alt="" width="40"></h1>
+  <h3 align="center">Full-Stack Developer · AI & Neuroscience · Odoo ERP Consultant</h3>
 </p>
 
-<h2 align="center">Social Media Accounts:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/abdelrahman-hassan278/"><img src="icons/linkedin.png" alt="LinkedIN" width="30" /></a>&nbsp;
-<a href="https://twitter.com/Abdelra31429503"><img src="icons/twitter.png" width="30" alt="Twitter" /></a>&nbsp;
-<a href="https://github.com/Abdelrahmanhassan1"><img src="icons/github.png" width="30" alt="Github" /></a>&nbsp;
-</p>
+## 👨‍💻 About Me
 
-<div align="center" >
-  <a href="https://www.youtube.com/channel/UCd_rPbpKH8iRGOG-LOg-jkg"><img src="./icons/youtube-logo-png-2067.png" width="40" height="35" /></a>
-</div>
+I'm a developer working where software, AI and the brain meet. I build **AI applications**, **full-stack web apps** and **business systems**, and I apply machine learning to **neuroscience and brain imaging**. I also work as a freelance **Odoo developer and consultant**.
 
-<div align="center">
-  <a href="https://3d-portfolio-ruby-eight.vercel.app/"  target="_blank"> Portfolio</a>
-</div>
+## 🔧 What I'm Working On
+
+### 🧠 AI & Neuroscience
+
+- **Machine learning on brain imaging**: classification models on MRI and resting-state fMRI data, including work with Human Connectome Project data
+- **Interactive 3D brain app** built with three.js for learning neuroanatomy (click a region, zoom, explore), planned to grow into a viewer for real MRI/fMRI scans
+- **Healthcare tech**: a 3D Medical Images Workstation, and _Upper Extremity Rehabilitation Using Virtual Reality Mirror Therapy_, mentored by Siemens Healthineers
+- **VR experiences** in Unity and Blender for athlete training and stroke rehabilitation
+
+### 🌐 Web Development
+
+- **Atenix**: an open-source ERP written in TypeScript that aims to cover Odoo's feature set without its structural limitations
+- Full-stack web apps with React, Next.js, Node.js and MongoDB, such as **PixiCamel** (a 3D asset store) and **MRKBA** (an online car reservation platform)
+
+### 🏢 Odoo ERP
+
+- **Custom Odoo 19 modules** across **Point of Sale, Inventory, Accounting, HR and Manufacturing**, currently powering a **12-branch retail chain**:
+  - POS: cashier bonus tracking and dashboards, customer reservations with deposits, cashier closing reports, expense tracking, stock-availability checks, refund time limits, loyalty and promotion extensions
+  - Accounting: inter-branch cash transfers and payment conversions with proper double-entry clearing accounts
+  - Inventory: stock and shortage dashboards, per-location min/max thresholds, bulk scrap confirmation
+  - HR: GPS geofenced attendance
+  - Full Arabic translation and branch/zone-level access rules throughout
+
+## 🛠️ Tech Stack
+
+**AI & Data:** Python · PyTorch · LLMs · Neuroimaging (MRI / fMRI)<br />
+**Web:** TypeScript · JavaScript · React · Next.js · Node.js · Express · MongoDB<br />
+**Odoo & ERP:** Python · Odoo ORM · OWL · QWeb/XML · PostgreSQL<br />
+**3D & VR:** three.js · Unity · Blender<br />
+**Automation & Other:** UiPath · Power Apps · Git
+
+## 🤝 Work With Me
+
+Open to collaborating on AI and neuroscience projects, web apps, and custom Odoo work (modules, POS and accounting workflows, or a full implementation). Reach out on [LinkedIn](https://www.linkedin.com/in/abdelrahman-hassan278/).
 
 <br />
-<br />
 
-<p>
-A passionate Full-Stack Developer with a strong foundation in modern technologies, including React, Next.js, TypeScript, Node.js, MongoDB, Python, and Odoo. I specialize in building dynamic, scalable, and user-friendly web applications, with hands-on experience in developing platforms like PixiCamel, a 3D asset store, and MRKBA, an online car reservation platform.<br />
-
-My journey in tech is diverse and enriched by my roles as an Application Developer at Siemens, where I contributed to AI-driven apps for document extraction and chatbots, and as an RPA Developer, automating workflows with UiPath and enhancing data integration with Power Apps. I’ve also explored the intersection of healthcare and technology through projects like the 3D Medical Images Workstation and my VR-based graduation project, Upper Extremity Rehabilitation Using Virtual Reality Mirror Therapy, mentored by Siemens Healthineers.<br />
-
-Beyond web development, I’ve ventured into VR development with Unity and Blender, creating immersive experiences for athlete training and stroke rehabilitation. My background as an IT Asset Administrator has also equipped me with a solid understanding of infrastructure, cloud services, and sustainability initiatives.<br />
-
-I’m passionate about leveraging technology to solve real-world problems, whether it’s through web apps, automation, or healthcare innovations. Feel free to explore my projects and get in touch
-</p>
-
-<br/>
-<br />
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanhassan1&theme=radical&show_icons=true" width="480" />
-</p>
